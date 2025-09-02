@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .landing-page {
@@ -38,9 +39,10 @@
 }
 
 .landing_content {
-  margin-top: 430px;
-  margin-left: 100px;
-  transform: translate(-50%, -50%);
+  /* margin-top: 430px; */
+  /* margin: 430px auto; */
+  margin-right: 50px;
+  /* transform: translate(-10%, -10%); */
   z-index: 1;
   text-align: center;
   /* background-color: red; */
